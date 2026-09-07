@@ -1,0 +1,6 @@
+{
+  "name": "V.E.N.U.S AI",
+  "description": "V.E.N.U.S AI – Personal Voice & Desktop Assistant with real-time speech processing, VenusAssist overlay, offline engine, emotion detection, voice translation, system automation, and encrypted local memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
